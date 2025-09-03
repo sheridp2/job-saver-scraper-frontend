@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+.job-card {
+  @apply border border-gray-300 rounded-lg p-4 mb-4 bg-gray-100;
+}

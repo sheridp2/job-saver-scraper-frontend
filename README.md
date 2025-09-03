@@ -1,0 +1,1 @@
+A board to keep track of the jobs you've applied to or plan to apply to. Right now, added via a POST request with just the URL and a screen scraper will do it's best to get the info from the job posting and display it in your list.
